@@ -76,3 +76,23 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+nav {
+    text-align: center;
+    background: #aee7fc;
+    padding: 20px 0px;
+    font-size: 18px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+}
+
+nav a {
+    padding: 0px 15px;
+    color: #072c7a;
+    text-decoration: none;
+}
+  
+nav a:hover {
+   color: blue;
+}
